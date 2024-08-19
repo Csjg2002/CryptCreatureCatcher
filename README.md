@@ -4,11 +4,13 @@
  ### [YouTube Walkthrough](https://www.youtube.com/watch?v=uMdVukA-XCI)
 
 <h2>Description</h2>
-A simple Halloween themed 2D platformer made for a college assignment.
+Catch fantasical creatures that lurk deep within an ancient crypt, all while battling through hordes of mischevious goblins and the darkest of undead knights!
 
-The goal is to collect every pumpkin seed in a level and then light the Pumpkin at the end!
+CRYPT CREATURE CATCHER is a hybrid of a dungeon crawler and a creature collector game. The goal is explore the crypt and catch 'em all!
 
-I was the solo programmer for this project.
+Created for the the LowRezJam 2024!
+
+I was the solo programmer for this project. This project was my first experience using Git and also working with WebGL builds
 
 <br />
 
