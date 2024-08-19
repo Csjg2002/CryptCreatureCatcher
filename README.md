@@ -10,7 +10,7 @@ CRYPT CREATURE CATCHER is a hybrid of a dungeon crawler and a creature collector
 
 Created for the the LowRezJam 2024!
 
-I was the solo programmer for this project. This project was my first experience using Git and also working with WebGL builds
+I was the solo programmer for this project. This project was also my first experience using Git and also working with WebGL builds
 
 <br />
 
