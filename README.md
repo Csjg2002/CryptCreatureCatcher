@@ -15,7 +15,7 @@ Developed for the LowRezJam 2024, I was the sole programmer for this project. It
 <h2>In-game Clips:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Crypt Creature Catcher"/>
+<img src="https://github.com/user-attachments/assets/63a7cc5f-4b50-426e-89cc-964933d1ceb9" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
 <img src="" height="80%" width="80%" alt="Crypt Creature Catcher"/>
