@@ -8,9 +8,7 @@ Catch fantasical creatures that lurk deep within an ancient crypt, all while bat
 
 CRYPT CREATURE CATCHER is a hybrid of a dungeon crawler and a creature collector game. The goal is explore the crypt and catch 'em all!
 
-Created for the the LowRezJam 2024!
-
-I was the solo programmer for this project. This project was also my first experience using Git and working with WebGL builds
+Developed for the LowRezJam 2024, I was the sole programmer for this project. It was also my first foray into using Git for version control and working with WebGL builds, expanding my development toolkit and experience.
 
 <br />
 
