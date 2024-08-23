@@ -21,6 +21,9 @@ Developed for the LowRezJam 2024, I was the sole programmer for this project. It
 <img src="https://github.com/user-attachments/assets/d507b993-3741-4d9e-98ab-c3e2d9575313" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
+<img src="https://github.com/user-attachments/assets/291fe83a-6f5e-4b6a-8346-b16a8d8f24f0" height="80%" width="80%" alt="Crypt Creature Catcher"/>
+<br />
+<br />
 </p>
 
 <h2>In-game Screenshots:</h2>
