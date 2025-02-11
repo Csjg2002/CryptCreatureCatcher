@@ -4,6 +4,7 @@
  ### [YouTube Walkthrough](https://www.youtube.com/watch?v=uMdVukA-XCI)
 
 <h2>Description</h2>
+<p>
 CRYPT CREATURE CATCHER is a hybrid dungeon crawler and creature collector game, where players must capture fantastical creatures lurking deep within an ancient crypt, all while battling through hordes of mischievous goblins and fearsome undead knights. The goal? Explore the crypt and catch 'em all!
 </p>
 <p>
