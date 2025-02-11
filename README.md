@@ -1,7 +1,7 @@
 <h1>Crypt Creature Catcher</h1>
 
 ### [Itch.Io Page](https://evernightstudios.itch.io/crypt-creature-catcher)
- ### [YouTube Walkthrough](https://www.youtube.com/watch?v=uMdVukA-XCI)
+### [YouTube Walkthrough](https://www.youtube.com/watch?v=uMdVukA-XCI)
 
 <h2>Description</h2>
 <p>
