@@ -1,4 +1,4 @@
-<h1>Crypt Creature Catcher</h1>
+<h1>Crypt Creature Catcher (LowRez Jam 2024 Version)</h1>
 
 ### [Itch.Io Page](https://evernightstudios.itch.io/archive-crypt-creature-catcher)
 ### [YouTube Walkthrough](https://www.youtube.com/watch?v=uMdVukA-XCI)
